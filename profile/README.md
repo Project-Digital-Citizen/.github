@@ -4,8 +4,8 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Project-Digital-Citizen/Back-End">
-    <img src="https://telegra.ph/file/d84494876312de4cdc90e.jpg" alt="Logo" width="140" height="80">
+  <a href="">
+   <img src="https://cdn.discordapp.com/attachments/732252882614747227/1178728519698759760/logo_3_kotak.png?ex=6589a87a&is=6577337a&hm=c21b956f1786afb37c930a7736cad647929d9a5268df220ad20593af2862867d&" alt="Logo" width="320" height="320">
   </a>
 
 <h1 align="center">Digital Citizen</h1>
